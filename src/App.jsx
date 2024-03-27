@@ -14,17 +14,17 @@ const App = () => {
   return (
     <>
       <div className="pt=[4.75rem] lg:pt-[5.25rem] overflow-hidden ">
-        {/* <Header />
+        <Header />
         <Hero />
         <Benifits />
         <Collaboration />
-        <Services /> */}
+        <Services />
       </div>
-      {/* <ButtonGradient />
+      <ButtonGradient />
       <Pricing />
       <Roadmap />
-      <Footer /> */}
-      <ImageGenerator />
+      <Footer />
+      {/* <ImageGenerator /> */}
     </>
   );
 };
